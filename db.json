@@ -1,0 +1,40 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Doctors Appointment",
+      "day": "Dec 21 at 1400hrs",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Meeting at avani",
+      "day": "Dec 23 at 0630hrs",
+      "reminder": false
+    },
+    {
+      "text": "Clean my room",
+      "day": "Sunday noon",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "text": "Take test",
+      "day": "Monday 1400 hrs",
+      "reminder": false,
+      "id": 5
+    },
+    {
+      "text": "Seal the openings",
+      "day": "January 1 2062",
+      "reminder": true,
+      "id": 7
+    },
+    {
+      "text": "Make amendments to old ways",
+      "day": "July 31st 0001 BC",
+      "reminder": true,
+      "id": 8
+    }
+  ]
+}
